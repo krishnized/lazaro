@@ -1,0 +1,7 @@
+
+*.mp3
+/recording.band
+*.m4a
+*.mp4
+*.ogg
+.DS_Store
